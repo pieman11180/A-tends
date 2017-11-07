@@ -1,0 +1,10 @@
+U:\source\repos\A++endance\A++endance\bin\Debug\A++endance.exe.config
+U:\source\repos\A++endance\A++endance\bin\Debug\A++endance.exe
+U:\source\repos\A++endance\A++endance\bin\Debug\A++endance.pdb
+U:\source\repos\A++endance\A++endance\obj\Debug\A++endance.csprojResolveAssemblyReference.cache
+U:\source\repos\A++endance\A++endance\obj\Debug\A__endance.Form1.resources
+U:\source\repos\A++endance\A++endance\obj\Debug\A__endance.Properties.Resources.resources
+U:\source\repos\A++endance\A++endance\obj\Debug\A++endance.csproj.GenerateResource.Cache
+U:\source\repos\A++endance\A++endance\obj\Debug\A++endance.csproj.CoreCompileInputs.cache
+U:\source\repos\A++endance\A++endance\obj\Debug\A++endance.exe
+U:\source\repos\A++endance\A++endance\obj\Debug\A++endance.pdb
